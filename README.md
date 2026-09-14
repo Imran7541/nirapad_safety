@@ -3,10 +3,13 @@
 > **জীবনরক্ষায় অফলাইন-ফার্স্ট সার্বজনীন ইমার্জেন্সি রেসপন্স ও ব্যক্তিগত নিরাপত্তা প্ল্যাটফর্ম**
 > An offline-first, multi-tier emergency response and personal safety platform designed specifically for the realities and critical life situations in Bangladesh.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-success?style=for-the-badge&logo=googlechrome)](https://imran7541.github.io/nirapad_safety/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.13+-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Passing%20(11%2F11)-brightgreen.svg)]()
+
+🌐 **লাইভ ওয়েবসাইট লিংক:** [https://imran7541.github.io/nirapad_safety/](https://imran7541.github.io/nirapad_safety/)
 
 ---
 
